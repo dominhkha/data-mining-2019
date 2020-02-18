@@ -1,6 +1,6 @@
 ## data-mining-2019
 # Bài tập môn khai phá dữ liệu - Học kỳ I năm học 2019-2020
-
+### Dự đoán tuổi dựa theo Facebook Group ID
 - python3
 - Packages: numpy, pandas, tensorflow, selenium, sklean, bs4
 
